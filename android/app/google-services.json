@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "347441987380",
+    "project_id": "wide-cathode-404703",
+    "storage_bucket": "wide-cathode-404703.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347441987380:android:169869d7b387f0fa062f61",
+        "android_client_info": {
+          "package_name": "com.praktikum.modul2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpTGWDV3Tfp5LQLHSgvWL2c-V6XdQvulA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
